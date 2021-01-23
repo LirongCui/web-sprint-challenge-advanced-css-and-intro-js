@@ -144,9 +144,11 @@ button:hover{
     }
 
     .title-container div{
-        border:3px solid red;
         height: 100%;
-
+        margin:5% 10%;
+        padding: 20%;
+        background-size: cover;
+        width: 80%;
     }
     .title-container div{
         max-width:100%;
@@ -161,5 +163,9 @@ button:hover{
     .artist img{
         max-width:100%;
         height: auto;
+    }
+
+    .artists-container{
+        margin:0 0;
     }
 }
